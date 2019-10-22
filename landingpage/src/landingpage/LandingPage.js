@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 class LandingPage extends Component {
   render() {
     return (
+        //className == Class n0 HTML
     <div className="mx-auto my-auto bg-danger">
 
         <div className="text-center container-fluid mx-auto rounded">
